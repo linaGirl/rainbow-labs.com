@@ -1,4 +1,5 @@
-localhost {
+# localhost {
+rainbow-labs.com www.rainbow-labs.com {
     header {
         -last-modified
     }
